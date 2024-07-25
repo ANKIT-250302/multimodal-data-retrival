@@ -1,3 +1,12 @@
+# Commands to setup project locally 
+linux  :
+python3 -m venv env 
+source env/bin/actvate
+pip install -r requirements.txt
+streamlit run main.py 
+
+
+
 ### multimodal-data-retrival
 
 #GIT COMMAND
